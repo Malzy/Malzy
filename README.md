@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Malzy
+- 👀 I’m interested in python, software architecture and renewables.
+- 🌱 I’m currently learning software architecture and continuous delivery.
+- 📫 How to reach me: [email](alouini.malek@gmail.com) or [twitter](@aln_mlk)
